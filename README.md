@@ -1,32 +1,14 @@
 # spice-coop-lids
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Scad drawing for the lids for spices to be 3d printed
 
 ## Usage
 
-FIXME: explanation
+`lein run` to make the scad file.
 
-    $ java -jar spice-coop-lids-0.1.0-standalone.jar [args]
+Then use open scad to open that file. Make sure you have the library files in openscad's library path.
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+From openscad, export to stl.
 
 ## License
 
